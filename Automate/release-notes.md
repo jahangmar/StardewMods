@@ -2,6 +2,7 @@
 
 # Release notes
 ## Upcoming release
+* Updated for Stardew Valley 1.4, including new machine recipes.
 * Reduced performance impact when a location's objects or terrain features change.
 * Fixed machines not updated when an automatable building is added or removed.
 
